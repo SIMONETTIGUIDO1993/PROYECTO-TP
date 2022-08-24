@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-tp",
+  "version": "1.0.0",
+  "description": "PAGINA WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIMONETTIGUIDO1993/PROYECTO-TP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SIMONETTIGUIDO1993/PROYECTO-TP/issues"
+  },
+  "homepage": "https://github.com/SIMONETTIGUIDO1993/PROYECTO-TP#readme"
+}
